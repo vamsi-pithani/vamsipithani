@@ -1,5 +1,8 @@
 # 💫 About Me:
-    👋 Hi, I’m @vamsipithani<br>    ⚡skills- DevOps<br>    📫 vamsi.awscloud@gmail.com<br>    😄 Pronouns: He
+    👋 Hi, I’m @vamsipithani
+    ⚡skills- DevOps
+    📫 vamsi.awscloud@gmail.com
+    😄 Pronouns: He
 
 
 ## 🌐 Socials:
@@ -19,18 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=vamsi-pithani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-- 👋 Hi, I’m @vamsipithani
-- ⚡skills- aws,devops,azure devops.
-- 📫 vamsi.awscloud@gmail.com
-- 😄 Pronouns: He
- 
-
-<!---
-vamsipithani/vamsipithani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
